@@ -1,0 +1,20 @@
+.env
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+.venv/
+venv/
+env/
+
+.vscode/
+.idea/
+
+.DS_Store
+Thumbs.db
+
+# Local generated RAG index
+models/rag.index
+models/rag_metadata.pkl

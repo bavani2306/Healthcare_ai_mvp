@@ -1,0 +1,11 @@
+streamlit
+pandas
+scikit-learn
+joblib
+torch
+torchvision
+sentence-transformers
+faiss-cpu
+pypdf
+python-dotenv
+openai
